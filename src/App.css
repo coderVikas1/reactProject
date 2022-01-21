@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.ee{
+  color: aqua;
+  background-color: black;
+}
+
+.ss{
+  color: pink;
+  background-color: black;
+  font-size: 40px;
+  text-align: center;
+}
+
+.user{
+  background-color: cadetblue;
+  font-size: 2em;
+}
+
+.heading{
+  background-color: grey;
+  font-size: 1.2em;
+  padding: 10px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.navbar{
+  margin-top: 50px;
+  
+}
+
+.links{
+margin-left: 20px;
+  font-size: 2em;
+}
+
+.dl dt{
+  font-size: 2em;
+  font-weight: 300;
+}
